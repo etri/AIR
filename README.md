@@ -2,7 +2,7 @@
 AIR(Artificial Intelligence for Robots)는 정부 R&amp;D 과제로서 "고령자를 지원하는 휴먼케어로봇을 위한 인공지능 원천기술을 연구개발"합니다.
 
 ## 소개
-AIR는 2017년에 시작한 과제로 공식 과제명과 정보는 "고령사회에 대응하기 위한 실환경 휴먼케어로봇 기수 개발"이며, 과기정통부와 정보통신기획평가원의 지원을 받습니다.
+AIR는 2017년에 시작한 과제로 공식 과제명은 "고령사회에 대응하기 위한 실환경 휴먼케어로봇 기수 개발"이며 과기정통부와 정보통신기획평가원의 지원을 받습니다.
 
 The AIR project began its exploration in 2017 to build artificial intelligence for human-care robots. The official title of the project is “Development of Human-care Robot Technology for Aging Society”. The project is funded by the Korean gevernment agency, called MSIP(Ministry of Science, ICT and Future Planning).
 
